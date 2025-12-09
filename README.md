@@ -26,3 +26,6 @@ Kun arvaus on oikein, silmukka päättyy ja ohjelma kertoo oikean luvun sekä yr
 
 ## Vuokaavio pelin toiminnasta
 <img width="511" height="1101" alt="image" src="https://github.com/user-attachments/assets/fd01592d-96ba-462d-9be3-e1c01f4c9ad2" />
+
+## Linkki demovideoon
+https://youtu.be/7-J25vlkxVQ
