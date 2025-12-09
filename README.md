@@ -1,0 +1,2 @@
+# Ohjelmoinninperusteet
+Pieni ohjelmistoprojekti kurssille Ohjelmoinninperusteet 2025
