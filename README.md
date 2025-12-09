@@ -22,4 +22,4 @@ Kun arvaus on oikein, silmukka päättyy ja ohjelma kertoo oikean luvun sekä yr
 - Lataa reporisotion GitHubista koneellesi
 - Avaa komentorivi projektin kansioon
 - Suorita komento:
-    python ohjelmoinninperusteet.py
+    python peli_arvaa_luku.py
