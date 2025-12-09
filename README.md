@@ -23,3 +23,5 @@ Kun arvaus on oikein, silmukka päättyy ja ohjelma kertoo oikean luvun sekä yr
 - Avaa komentorivi projektin kansioon
 - Suorita komento:
     python peli_arvaa_luku.py
+
+<img width="511" height="1101" alt="image" src="https://github.com/user-attachments/assets/fd01592d-96ba-462d-9be3-e1c01f4c9ad2" />
