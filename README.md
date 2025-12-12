@@ -19,7 +19,7 @@ Kun arvaus on oikein, silmukka päättyy ja ohjelma kertoo oikean luvun sekä yr
 
 ## Pelin käynnistys
 - Varmista, että Python on asennettuna 
-- Lataa reporisotion GitHubista koneellesi
+- Lataa reporisotio GitHubista koneellesi
 - Avaa komentorivi projektin kansioon
 - Suorita komento:
     python peli_arvaa_luku.py
